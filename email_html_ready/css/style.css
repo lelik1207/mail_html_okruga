@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+  .email-header {
+    background-color: #215491;
+    background-position: top left;
+    color: #fff;
+    padding: 5px 0 5px;
+    background-repeat: no-repeat;
+  }
+
+  .email-header h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 30px;
+  }
+
+  .email-header span {
+    font-weight: bold;
+    font-size: 70px;
+    text-transform: uppercase;
+  }
+
+  .text {
+    margin-top: -27px;
+    font-size: 18px;
+    font-style: italic;
+    -ms-text-align-last: auto;
+    text-align: left;
+  }
+
+  .sale-text {
+    font-size: 22px;
+    color: #000;
+    font-weight: bold;
+    padding: 40px 0 40px;
+    font-style: oblique;
+  }   
+
+  .email-logo {
+    float: left; }
+
+    .email-center {
+      margin: auto;
+      max-width: 600px;
+      text-align: center;
+      padding: 0 20px;
+    }
+
+    .email-center h2 {
+      font-size: 36px;
+    }
+
+    .email-cocial-wrap {
+      float: right; }
+      .email-cocial-wrap a {
+        margin-left: 7px; }
+
+        .email-headet-top {
+          padding-top: 80px;
+          text-align: center;
+          text-transform: uppercase;
+          font-size: 24px;
+          font-weight: bold;
+          line-height: 34px;
+          clear: both; }
+
+          .email-button,
+          .pruduct-button {
+            display: inline-block;
+            padding: 11px 45px;
+            background-color: #56BA5B;
+            border-radius: 5px;
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            margin-top: 60px;
+            margin-bottom: 80px; }
+
+            .pruduct-button {
+              margin: 15px 0 0;
+              font-size: 12px;
+              background-color: #7A695A;
+              padding: 9px 38px; }
+
+              .email-tizers-wrap {
+                background-image: url(../img/post.jpg);
+                border-bottom: 5px solid #D5D5D5;
+                margin-top: 0;
+                padding: 34px 0 0; }
+
+                .email-tizer-item {
+                  display: inline-block;
+                  width: 230px;
+                  vertical-align: top;
+                  padding: 0 20px;
+                  padding-bottom: 20px; 
+                }
+
+                .email-tizer-item p {
+                  font-style: oblique;
+                  color: #215491; 
+                  font-size: 24px;
+                }
+
+                .email-sale-text {
+                  display: inline-block;
+                  margin: 45px 0;
+                  text-transform: uppercase;
+                  color: #a1a1a1;
+                  letter-spacing: 3px;
+                  padding: 12px 35px;
+                  border: #a1a1a1 2px solid;
+                  line-height: 24px;
+                  font-weight: bold;
+                }
+
+                .mail-products-wrap img {
+                  width: 100%; }
+
+                  .mail-products-item {
+                    width: 250px;
+                    display: inline-block;
+                    padding: 0 20px;
+                    border-bottom: #D5D5D5 1px solid;
+                    padding-bottom: 30px;
+                    margin-bottom: 30px; }
+
+                    .mail-price {
+                      color: #040506;
+                      margin-top: 15px;
+                      font-size: 16px; }
+
+                      .email-footer {
+                        background-color: #ECECEC;
+                        padding: 20px 0;
+                        text-align: center;
+                        font-size: 12px;
+                        color: #a1a1a1; }
+                        .email-footer a {
+                          color: #a1a1a1;
+                        }
+                        table {
+                          width: 100%; /* Ширина таблицы */
+                          background: white; /* Цвет фона таблицы */
+                          color: black; /* Цвет текста */
+                          border-spacing: 1px; /* Расстояние между ячейками */
+                          border-collapse: collapse;
+                          margin-bottom: 38px;
+                        }
+                        td, th {
+                          background: white; /* Цвет фона ячеек */
+                          padding: 5px; /* Поля вокруг текста */
+                          border: #000 1px solid}
+
+.scid {
+  text-align: left;
+  color: #215491;
+  font-size: 20px;
+  margin-bottom: 54px;
+}
+.hold {
+  color: #76767b;
+  font-style: oblique;
+}
